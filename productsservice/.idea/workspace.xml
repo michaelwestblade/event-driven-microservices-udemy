@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="de72690f-29b9-4146-99a6-693204bee7e1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Users\micha\.m2\wrapper\dists\apache-maven-3.8.1-bin\2l5mhf2pq2clrde7f7qp1rdt5m\apache-maven-3.8.1" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1vvH9ScC9neEsPYnM86T4n62KcS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com/udemy/appsdeveloperblog/estore/productsservice" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductsserviceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="productsservice" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.udemy.appsdeveloperblog.estore.productsservice.ProductsserviceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de72690f-29b9-4146-99a6-693204bee7e1" name="Default Changelist" comment="" />
+      <created>1627435491991</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627435491991</updated>
+      <workItem from="1627435493691" duration="1967000" />
+    </task>
+    <task id="LOCAL-00001" summary="first basic http rest api">
+      <created>1627436987459</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1627436987459</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first basic http rest api">
+      <created>1627437015061</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1627437015061</updated>
+    </task>
+    <task id="LOCAL-00003" summary="updated gitignore">
+      <created>1627437264018</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1627437264018</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first basic http rest api" />
+    <MESSAGE value="updated gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated gitignore" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="925" y="441" key="FileChooserDialogImpl" timestamp="1627437459409">
+      <screen x="0" y="0" width="3413" height="1400" />
+    </state>
+    <state x="925" y="441" key="FileChooserDialogImpl/5120.0.2560.1380/0.0.3413.1400@0.0.3413.1400" timestamp="1627437459409" />
+    <state width="2230" height="398" key="GridCell.Tab.0.bottom" timestamp="1627437463765">
+      <screen x="0" y="0" width="3413" height="1400" />
+    </state>
+    <state width="2230" height="398" key="GridCell.Tab.0.bottom/5120.0.2560.1380/0.0.3413.1400@0.0.3413.1400" timestamp="1627437463765" />
+    <state width="2230" height="398" key="GridCell.Tab.0.center" timestamp="1627437463764">
+      <screen x="0" y="0" width="3413" height="1400" />
+    </state>
+    <state width="2230" height="398" key="GridCell.Tab.0.center/5120.0.2560.1380/0.0.3413.1400@0.0.3413.1400" timestamp="1627437463764" />
+    <state width="2230" height="398" key="GridCell.Tab.0.left" timestamp="1627437463764">
+      <screen x="0" y="0" width="3413" height="1400" />
+    </state>
+    <state width="2230" height="398" key="GridCell.Tab.0.left/5120.0.2560.1380/0.0.3413.1400@0.0.3413.1400" timestamp="1627437463764" />
+    <state width="2230" height="398" key="GridCell.Tab.0.right" timestamp="1627437463765">
+      <screen x="0" y="0" width="3413" height="1400" />
+    </state>
+    <state width="2230" height="398" key="GridCell.Tab.0.right/5120.0.2560.1380/0.0.3413.1400@0.0.3413.1400" timestamp="1627437463765" />
+    <state width="2230" height="398" key="GridCell.Tab.1.bottom" timestamp="1627437463765">
+      <screen x="0" y="0" width="3413" height="1400" />
+    </state>
+    <state width="2230" height="398" key="GridCell.Tab.1.bottom/5120.0.2560.1380/0.0.3413.1400@0.0.3413.1400" timestamp="1627437463765" />
+    <state width="2230" height="398" key="GridCell.Tab.1.center" timestamp="1627437463765">
+      <screen x="0" y="0" width="3413" height="1400" />
+    </state>
+    <state width="2230" height="398" key="GridCell.Tab.1.center/5120.0.2560.1380/0.0.3413.1400@0.0.3413.1400" timestamp="1627437463765" />
+    <state width="2230" height="398" key="GridCell.Tab.1.left" timestamp="1627437463765">
+      <screen x="0" y="0" width="3413" height="1400" />
+    </state>
+    <state width="2230" height="398" key="GridCell.Tab.1.left/5120.0.2560.1380/0.0.3413.1400@0.0.3413.1400" timestamp="1627437463765" />
+    <state width="2230" height="398" key="GridCell.Tab.1.right" timestamp="1627437463765">
+      <screen x="0" y="0" width="3413" height="1400" />
+    </state>
+    <state width="2230" height="398" key="GridCell.Tab.1.right/5120.0.2560.1380/0.0.3413.1400@0.0.3413.1400" timestamp="1627437463765" />
+    <state x="818" y="403" key="RollbackChangesDialog" timestamp="1627437102570">
+      <screen x="0" y="0" width="3413" height="1400" />
+    </state>
+    <state x="818" y="403" key="RollbackChangesDialog/5120.0.2560.1380/0.0.3413.1400@0.0.3413.1400" timestamp="1627437102570" />
+    <state x="993" y="614" key="VCS.ChangelistChooser" timestamp="1627437096317">
+      <screen x="0" y="0" width="3413" height="1400" />
+    </state>
+    <state x="993" y="614" key="VCS.ChangelistChooser/5120.0.2560.1380/0.0.3413.1400@0.0.3413.1400" timestamp="1627437096317" />
+    <state x="737" y="420" key="Vcs.Push.Dialog.v2" timestamp="1627437265626">
+      <screen x="0" y="0" width="3413" height="1400" />
+    </state>
+    <state x="737" y="420" key="Vcs.Push.Dialog.v2/5120.0.2560.1380/0.0.3413.1400@0.0.3413.1400" timestamp="1627437265626" />
+    <state x="955" y="478" key="chooseDestDirectoryDialog" timestamp="1627435774006">
+      <screen x="0" y="0" width="3413" height="1400" />
+    </state>
+    <state x="955" y="478" key="chooseDestDirectoryDialog/5120.0.2560.1380/0.0.3413.1400@0.0.3413.1400" timestamp="1627435774006" />
+    <state x="734" y="361" key="new project wizard" timestamp="1627437461938">
+      <screen x="0" y="0" width="3413" height="1400" />
+    </state>
+    <state x="734" y="361" key="new project wizard/5120.0.2560.1380/0.0.3413.1400@0.0.3413.1400" timestamp="1627437461938" />
+  </component>
+</project>
